@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "aboveR"]
+	path = aboveR
+	url = https://github.com/chrislyonsky/abover
 [submodule "stacr"]
 	path = stacr
 	url = https://github.com/chrislyonsky/stacr
